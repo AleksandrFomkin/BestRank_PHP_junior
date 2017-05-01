@@ -1,0 +1,17 @@
+{
+  "name": "ahref/site",
+  "description": "my site",
+  "keywords": ["framework", "laravel"],
+  "license": "MIT",
+  "type": "project",
+  "config": {
+    "disable-tls": true,
+    "secure-http": false
+  },
+  "require": {
+    "balloondev/phurl": "dev-master",
+    "components/jquery": "2.0.0",
+    "components/bootstrap": "4.x-dev",
+    "components/font-awesome": "4.7.0"
+  }
+}
