@@ -1,0 +1,49 @@
+#long-link-label {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+#long-link-text {
+    margin-left: 10px;
+    width: 300px;
+}
+
+#site-info {
+    color: darkblue;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#me-image {
+    width: 100px;
+    height: 100px;
+    clear: both;
+    border-radius: 50%;
+    border: 1px dashed coral;
+    margin: 0 auto;
+    display: block;
+}
+
+#about-info {
+    width: 500px;
+    height: 550px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#long-link-container {
+    float: left;
+}
+
+#long-link-result {
+    margin-left: 500px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#long-link-jumbotron {
+    height: 200px;
+}
+
+#ajax-result {
+    color: #bd4147;
+}
