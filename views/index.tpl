@@ -27,7 +27,7 @@
         <span id='site-info' class="fa fa-info-circle fa-3x fa-fw"></span>
         <hr>
         Тестовое задание на позицию <a href="https://career.ru/vacancy/20122667">Младший веб-программист.</a><br>
-        Выполнил: Фомкил Александр Сергеевич. <br>
+        Выполнил: Фомкин Александр Сергеевич. <br>
         <img src="../images/me.jpeg" id="me-image"> <br>
         В процессе выполнения использовалось: <br>
         <ul class="list-group">
